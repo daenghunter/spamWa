@@ -1,8 +1,6 @@
 #!/usr/bin/python2
 
 # Creator :  ./Rozhak
-# Team : Black Hat
-# Never Mind
 
 from requests import ConnectionError
 from time import sleep
