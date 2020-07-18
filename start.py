@@ -38,7 +38,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./Rozhak\n\t\t   fb.com//Rozhak.id')
+                   '''+W+'Creator : ./Rozhak\n\t\t   Fb.com//Rozhak.id')
                    
 def RupaRupa():
 	print
@@ -195,7 +195,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://randdsoftindonesia.com/')
+	os.system('xdg-open https://Fb.com//Rozhak.id.com/')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
