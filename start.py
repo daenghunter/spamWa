@@ -38,7 +38,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./Rozhak\n\t\t   Web : indonesia.com')
+                   '''+W+'Creator : ./Rozhak\n\t\t   fb.com//Rozhak.id')
                    
 def RupaRupa():
 	print
