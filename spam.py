@@ -48,7 +48,7 @@ def RupaRupa():
 	MesinTik(C+'\t SPAM RUPA RUPA')
 	MesinTik(W+'\t================')
 	print
-	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
+	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 62812xxxx '+W+') : ')
 	jumlah = input(''+C+'JUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
 	print
 	MesinTik_2(''+C+'-------------- '+W+'Starting'+C+' --------------')
@@ -135,7 +135,7 @@ def Tokped():
 	MesinTik(C+'\t SPAM TOKOPEDIA')
 	MesinTik(W+'\t================')
 	print
-	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
+	number = raw_input(''+C+'MASUKKAN NOMOR TARGET'+W+' ('+H+' Ex :'+C+' 62812xxxx '+W+') : ')
 	jumlah = input(''+C+'JUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
 	print
 	MesinTik_2(''+C+'-------------- '+W+'Starting'+C+' --------------')
