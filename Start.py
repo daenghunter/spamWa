@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # Ngapain Lu AnJing Mau Recode?
 
-# Creator :  Rozhak
+# Author :  Rozhak
 # Fb :       Rozhak.id
 # YT :       RozhakId
 
@@ -41,7 +41,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : Rozhak\n\t\t   Fb :Rozhak.Id')
+                   '''+W+'Author : Rozhak\n\t\t   Fb :Rozhak.Id')
                    
 def RupaRupa():
 	print
@@ -198,7 +198,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://randdsoftindonesia.com/')
+	os.system('xdg-open https://m.facebook.com/100021670171916/')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
