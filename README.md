@@ -10,4 +10,4 @@ $ git clone https://github.com/Rozak-bot/spamWhatsApp
 
 $ cd spamWhatsApp
 
-$ python2 start.py
+$ python2 Start.py
