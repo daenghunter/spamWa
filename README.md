@@ -6,8 +6,8 @@ $ pkg install python2
 
 $ pip2 install requests
 
-$ git clone https://github.com/Rozak-bot/spamWhatsApp
+$ git clone https://github.com/Rozak-bot/spamWa
 
-$ cd spamWhatsApp
+$ cd spamWa
 
-$ python2 Start.py
+$ python2 spam.py
