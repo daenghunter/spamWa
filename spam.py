@@ -41,7 +41,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Author : Rozhak\n\t\t   Fb :Rozhak.Id')
+                   '''+W+'Author : ALIF PUTRA DARMAWAN\n\t\t   Telegram : @DaengHunter')
                    
 def RupaRupa():
 	print
